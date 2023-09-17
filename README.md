@@ -13,4 +13,6 @@ key = "Your Api Key";
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.jpg) </br>
+![Movie Info App](https://github.com/DevJSter/MovieInfoApp/assets/115056248/c5626143-c95b-4dc0-83fe-eba25178bf55) </br>
+![23](https://github.com/DevJSter/MovieInfoApp/assets/115056248/c7d0b62c-84c9-4f0c-901e-6a015cb0b1c8)
